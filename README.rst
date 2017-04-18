@@ -1,7 +1,7 @@
 Bruno2
 ======
 
-Bruno2 is a minimalistic modular IRC bot written for Python2. It is based on the `FrozenIdea <https://github.com/Bystroushaak/FrozenIdea>`_ module for IRC bots.
+Bruno2 is a minimalist modular IRC bot written for Python 2. It is based on the `FrozenIdea <https://github.com/Bystroushaak/FrozenIdea>`_ module for IRC bots.
 
 Usage
 -----
