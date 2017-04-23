@@ -12,6 +12,6 @@ You need to install FrozenIdea with
 
 Then you can clone this repo and run the bot like
 
-``$ python2 bruno2.py [NICK] [SERVER] ([PORT] default 6667)``
+``$ python2 bruno2.py [NICK] [SERVER] [PORT]``
 
 Bot will connect to the given server and join channel ``#testbruno`` (see ``modules/test.py``). You can add and change modules on run.

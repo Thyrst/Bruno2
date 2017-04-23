@@ -55,8 +55,8 @@ class Bruno2(FrozenIdea):
                     imported = getattr(imported, module)
                     self.modules[module] = imported
 
-    def __init__(self, nickname, server, port=6667):
-        super(Bruno2, self).__init__(nickname, server, port)
+    def __init__(self, *args, **kwargs):
+        super(Bruno2, self).__init__(*args, **kwargs)
 
         self.modules = {}
         self._load_modules()
